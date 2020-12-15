@@ -1,4 +1,4 @@
-# th2-check2-recon 
+# th2-check2-recon
 This is one of the parts of the **th2-check2-recon** component, or *recon* in short. 
 *Recon* allows you to compare message streams with each other using specified scenarios called *Rule*. 
 This part is called **th2-check2-recon-template**. 
